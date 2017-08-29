@@ -6,7 +6,7 @@ This repository contains codes that help to solve/illustrate mathematical proble
 CdM
 
 # Blog
-I have discussed about this topip in a [Medium] (add link) article.
+I have discussed this topic in a [Medium] (add link) article.
 
 # License
 Released under version 2.0 of the [Apache License].
