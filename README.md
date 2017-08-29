@@ -1,5 +1,5 @@
 # Mathematics
-This repository contains codes that help to solve/illustrate mathematical problems covering a broad spectrum, from chaos theory to prime number conjectures.
+This repository contains codes that help to solve/illustrate mathematical problems covering a broad spectrum (chaos theory, prime number conjectures, etc).
 
 # Quote
 "If triangles had God, they would give him three sides."
