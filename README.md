@@ -6,9 +6,10 @@ This repository contains codes that help to solve/illustrate mathematical proble
 CdM
 
 # Blog
-I have discussed this topic in a [Medium] (add link) article.
+I have discussed about this project [here]
 
 # License
 Released under version 2.0 of the [Apache License].
 
 [Apache license]: http://www.apache.org/licenses/LICENSE-2.0
+[here]: https://medium.com/@ugo.bertello
